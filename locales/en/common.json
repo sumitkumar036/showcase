@@ -1,0 +1,19 @@
+{
+  "processing": "Processing...",
+  "back": "Go Back",
+  "loading": "Loading",
+  "settings": "Settings",
+  "data": "Data",
+  "securePortal": "Secure Portal",
+  "version": "Version",
+  "poweredBy": "Powered by {{APPNAME}} Security",
+  "email": "Email",
+  "password": "Password",
+  "userName": "User Name",
+  "dateOfBirth":"Date Of Birth",
+  "mobile":"Mobile",
+  "workspacePortal":"Workspace Portal",
+  "searchApps":"Search apps by title or description...",
+  "professionalPortfolio":"Professional Portfolio",
+  "selectCustomBuildSolution":"Select a custom-built solution below to launch your workspace tool instantly."
+}

@@ -1,0 +1,17 @@
+{
+   "manageYourDisplay":"अपने डिस्प्ले और फ़ॉन्ट स्केलिंग प्राथमिकताओं का प्रबंधन करें",
+  "screenBrightness": "स्क्रीन ब्राइटनेस",
+   "fontScaling":"फ़ॉन्ट आकार स्केलिंग",
+  "backgroundSoundVolume": "बैकग्राउंड साउंड वॉल्यूम",
+  "buttonSoundVolume": "बटन साउंड वॉल्यूम",
+  "viewPersonalAccount": "अपना व्यक्तिगत खाता विवरण देखें",
+  "updateAccountAccess": "अपने खाते के एक्सेस क्रेडेंशियल्स अपडेट करें",
+  "profile": "प्रोफ़ाइल",
+  "general": "सामान्य",
+  "name": "{NAME}",
+  "dateOfJoining": "जुड़ने की तिथि",
+  "currentPassword": "वर्तमान पासवर्ड",
+  "newPassword": "नया पासवर्ड",
+  "confirmPassword": "नया पासवर्ड कन्फर्म करें",
+  "saveNewPassword": "नया पासवर्ड सहेजें"
+}

@@ -1,0 +1,10 @@
+{
+    "createProfile":"Create Profile",
+    "joinCommunity":"Join Community {APPNAME}",
+    "completeProfile": "Complete Profile",
+    "alreadyHaveAccount": "Already Have Account",
+    "role":"Role",
+    "selectRole":"Select Role",
+    "admin": "Admin",
+    "user": "User"
+}

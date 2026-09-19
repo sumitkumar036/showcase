@@ -1,0 +1,8 @@
+{  
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "themeMessage": "Switched to {{theme}}",
+    "refreshMessage": "Page refreshed successfully",
+    "dashboard": "Dashboard",
+    "addUser": "Add User"
+}

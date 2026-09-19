@@ -1,0 +1,24 @@
+{
+    "manageYourDisplay":"Manage your display and font scaling preferences",
+    "screenBrightness":"Screen Brightness",
+    "fontScaling":"Font Size Scaling",
+    "backgroundSoundVolume":"Background Sound Volume",
+    "buttonSoundVolume":"Button Sound Volume",
+    
+    "viewPersonalAccount":"View your personal account details",
+    "updateAccountAccess":"Update your account access credentials",
+
+    "profile":"Profile",
+    "general":"General",
+
+
+    "name":"{NAME}",
+
+    "dateOfJoining":"Date Of Joining",
+
+
+    "currentPassword":"Current Password",
+    "newPassword":"New Password",
+    "confirmPassword":"Confirm New Password",
+    "saveNewPassword":"Dave New Password"
+}

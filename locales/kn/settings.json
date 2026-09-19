@@ -1,0 +1,17 @@
+{
+  "manageYourDisplay": "ನಿಮ್ಮ ಡಿಸ್ಪ್ಲೇ ಮತ್ತು ಫಾಂಟ್ ಸ್ಕೇಲಿಂಗ್ ಪ್ರಾಧಾನ್ಯತೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+  "screenBrightness": "ಪರದೆಯ ಹೊಳಪು",
+  "fontScaling":"ಫಾಂಟ್ ಗಾತ್ರ ಸ್ಕೇಲಿಂಗ್",
+  "backgroundSoundVolume": "ಹಿನ್ನೆಲೆ ಧ್ವನಿ ಪರಿಮಾಣ",
+  "buttonSoundVolume": "ಬಟನ್ ಧ್ವನಿ ಪರಿಮಾಣ",
+  "viewPersonalAccount": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಖಾತೆಯ ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+  "updateAccountAccess": "ನಿಮ್ಮ ಖಾತೆ ಪ್ರವೇಶ ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ",
+  "profile": "ಪ್ರೊಫೈಲ್",
+  "general": "ಸಾಮಾನ್ಯ",
+  "name": "{NAME}",
+  "dateOfJoining": "ಸೇರ್ಪಡೆಗೊಂಡ ದಿನಾಂಕ",
+  "currentPassword": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್",
+  "newPassword": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್",
+  "confirmPassword": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ದೃಢೀಕರಿಸಿ",
+  "saveNewPassword": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಉಳಿಸಿ"
+}

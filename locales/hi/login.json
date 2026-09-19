@@ -1,0 +1,18 @@
+{
+
+    "login": "लॉगिन करें",
+    "signIn": "साइन इन करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "verify Email": "ईमेल सत्यापित करें",
+    "logout": "लॉग आउट करें",
+    "register": "पंजीकरण करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "userName": "उपयोगकर्ता नाम",
+    "forgetPassword": "पासवर्ड भूल गए?",
+    "adminPortal": "एडमिन पोर्टल",
+    "loginSuccess": "लॉगिन सफल रहा",
+    "loginError": "लॉगिन विफल। कृपया अपने क्रेडेंशियल्स की जाँच करें।",
+    "alreadyHaveAccount": "क्या आपके पास पहले से खाता है?",
+    "dontHaveAccount": "खाता नहीं है?"
+}

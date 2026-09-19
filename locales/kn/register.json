@@ -1,0 +1,10 @@
+{
+  "createProfile": "ಪ್ರೊಫೈಲ್ ರಚಿಸಿ",
+  "joinCommunity": "{APPNAME} ಸಮುದಾಯಕ್ಕೆ ಸೇರಿ",
+  "completeProfile": "ಪ್ರೊಫೈಲ್ ಪೂರ್ಣಗೊಳಿಸಿ",
+  "alreadyHaveAccount": "ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+  "role": "ಪಾತ್ರ",
+  "selectRole": "ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "admin": "ಅಡ್ಮಿನ್",
+  "user": "ಬಳಕೆದಾರ"
+}

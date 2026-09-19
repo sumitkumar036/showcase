@@ -1,0 +1,20 @@
+{
+  "processing": "प्रोसेस हो रहा है...",
+  "back": "वापस जाएँ",
+  "loading": "लोड हो रहा है",
+  "settings": "सेटिंग्स",
+  "data": "डेटा",
+  "securePortal": "सुरक्षित पोर्टल",
+  "version": "संस्करण",
+  "poweredBy": "{{APPNAME}} सुरक्षा द्वारा संचालित",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "userName": "उपयोगकर्ता नाम",
+  "dateOfBirth": "जन्म तिथि",
+  "mobile":"मोबाइल",
+  "workspacePortal":"वर्कस्पेस पोर्टल",
+  "searchApps":"शीर्षक या विवरण द्वारा ऐप्स खोजें...",
+  "professionalPortfolio": "प्रोफेशनल पोर्टफोलियो",
+  "selectCustomBuildSolution": "अपने workspace टूल को तुरंत लॉन्च करने के लिए नीचे दिए गए कस्टम-बिल्ट सॉल्यूशन का चयन करें।"
+
+}
